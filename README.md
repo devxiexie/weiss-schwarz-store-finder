@@ -1,6 +1,6 @@
 # Weiss Schwarz Store Finder
 
-An interactive map of the official Weiß Schwarz retailers listed at
+An interactive map of the official Weiss Schwarz retailers listed at
 <https://en.ws-tcg.com/shops/>, which publishes the list as text only.
 
 - **Search** stores by name, street, city, state, or country, and filter by country
